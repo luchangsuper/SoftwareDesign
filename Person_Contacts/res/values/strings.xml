@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">个人通讯录</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="tvName">姓名：</string>
+    <string name="tvPhone">固定电话：</string>
+    <string name="tvMobile">移动电话：</string>
+    <string name="tvEmail">电子邮件：</string>
+    <string name="menu_add">添加</string>
+    <string name="menu_delete">删除</string> 
+    <string name="menu_save">保存</string> 
+    <string name="dialog_message">确定删除此人吗？</string>
+    <string name="ok">确定</string>
+    <string name="cancel">取消</string>
+    <string name="title">联系人列表</string>
+   
+</resources>
